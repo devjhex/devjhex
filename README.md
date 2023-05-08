@@ -1,16 +1,16 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkzOGUwOGI5ZjkzN2Y2ZmYxYzBiZDUyNWMxNjlmNTI4MDZjODQzYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Heq1JysEfjKJ0umHBY/giphy.gif" width="1200"/>
 </div>
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="left">
+  <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
 
 - 👋 Hi, I’m @devjhex
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating software
+- 🌱 I’m currently learning Frontend software Engineering
+- 💞️ I’m looking to collaborate on Open source projects and personal progjects
 - 📫 How to reach me ...
 
 <!---
