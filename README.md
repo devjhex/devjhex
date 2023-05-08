@@ -1,5 +1,5 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTkzOGUwOGI5ZjkzN2Y2ZmYxYzBiZDUyNWMxNjlmNTI4MDZjODQzYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Heq1JysEfjKJ0umHBY/giphy.gif" width="1200"/>
+<div id="header" align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDIzNDc4NDdkNjJkNGYyYzkzYTQxYzE4OWE1ZTY3MjU1OTdmNDAwOSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/AS2h22YmNZlRiEvJRj/giphy.gif" width="1050"/>
 </div>
 <div id="badges" align="left">
   <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
