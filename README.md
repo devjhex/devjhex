@@ -9,7 +9,7 @@
 
 - 👋 Hi, I’m @devjhex
 - 👀 I’m interested in creating software
-- 🌱 I’m currently learning Frontend software Engineering
+- 🌱 I’m a Full Stack Engineer.
 - 💞️ I’m looking to collaborate on Open source projects and personal progjects
 - 📫 How to reach me ...
 
