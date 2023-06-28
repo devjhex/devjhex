@@ -24,7 +24,9 @@
 - 👀 Exploring and Writing technical content for the tech industry.
 - 🌱 In my free time, I solve technical problems and do a lot of Bash Scripting.
 - 💞️ I’m looking to collaborate on Open source projects and personal projects
-- 📫 How to reach me:   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white)]()
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/jonah-ssegawa-6191a8270/">
+     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a> 
 
 ---
 
