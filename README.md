@@ -51,8 +51,10 @@
 
 ---
 
-### :writing_hand: Blog Posts :
-
+### :writing_hand: Artilcles :
+- [What is Open-source?](https://devjhex.hashnode.dev/what-is-open-source)
+- [How does Open-source work?](https://devjhex.hashnode.dev/how-does-open-source-software-work)
+- [How will Open-source make you a better developer?](https://devjhex.hashnode.dev/how-open-source-will-make-you-a-better-developer)
 <!---
 devjhex/devjhex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
