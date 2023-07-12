@@ -51,7 +51,7 @@
 
 ---
 
-### :writing_hand: Artilcles :
+### :writing_hand: Articles :
 - [What is Open-source?](https://devjhex.hashnode.dev/what-is-open-source)
 - [How does Open-source work?](https://devjhex.hashnode.dev/how-does-open-source-software-work)
 - [How will Open-source make you a better developer?](https://devjhex.hashnode.dev/how-open-source-will-make-you-a-better-developer)
