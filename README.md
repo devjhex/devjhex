@@ -28,7 +28,7 @@
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## ⚒ Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -43,7 +43,7 @@
 
 ---
 
-### :fire: My stats :
+## 🔥 My stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devjhex&theme=dark&background=000000)](https://git.io/streak-stats)
 
@@ -51,7 +51,7 @@
 
 ---
 
-### :writing_hand: Articles :
+## ✍ Articles :
 - [What is Open-source?](https://devjhex.hashnode.dev/what-is-open-source)
 - [How does Open-source work?](https://devjhex.hashnode.dev/how-does-open-source-software-work)
 - [How will Open-source make you a better developer?](https://devjhex.hashnode.dev/how-open-source-will-make-you-a-better-developer)
