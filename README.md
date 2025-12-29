@@ -21,7 +21,7 @@
   
 </div>
 
-- 👋 Hi, I’m @Jonah, a full stack software Engineer contributing to the front-end and backend of Software applications.
+- 👋 I’m Jonah Ssegawa, a front-end developer building polished, high-performance web projects with a focus on clean architecture, scalability, and user experience..
 - 👀 Exploring and Writing technical content for the tech industry.
 - 🌱 In my free time, I solve technical problems and do a lot of Bash Scripting.
 - 💞️ I’m looking to collaborate on Open source projects and personal projects
